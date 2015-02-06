@@ -3,7 +3,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.3.1
-Release:	5
+Release:	6
 Summary:	Finite State Machine
 License:	PHP License
 Group:		Development/PHP
